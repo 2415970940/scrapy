@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/urllibtest.iml" filepath="$PROJECT_DIR$/.idea/urllibtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy_demo/.idea/scrapy_demo.iml" filepath="$PROJECT_DIR$/../scrapy_demo/.idea/scrapy_demo.iml" />
     </modules>
   </component>
 </project>
