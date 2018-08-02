@@ -2,10 +2,10 @@ from urllib import request,parse
 
 # url = 'https://ip.cn/'
 url='http://www.httpbin.org/ip'
-hd = {
+headers = {
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'}
 
-url = request.Request(url,headers=hd)
+url = request.Request(url,headers=headers)
 # resp = request.urlopen(url)
 # print(resp.read().decode('utf-8'))
 # # value="221.234.156.168"

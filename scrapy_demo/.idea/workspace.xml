@@ -14,74 +14,57 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/urllibtest$lxml_demo.coverage" NAME="lxml_demo Coverage Results" MODIFIED="1532532371644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
-    <SUITE FILE_PATH="coverage/urllibtest$request_headers.coverage" NAME="request_headers Coverage Results" MODIFIED="1532500105433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest" />
-    <SUITE FILE_PATH="coverage/urllibtest$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1532526844361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
-    <SUITE FILE_PATH="coverage/urllibtest$proxies_demo.coverage" NAME="proxies_demo Coverage Results" MODIFIED="1532529695237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
-    <SUITE FILE_PATH="coverage/urllibtest$proxyHandler_demo.coverage" NAME="proxyHandler_demo Coverage Results" MODIFIED="1532503770709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest" />
-    <SUITE FILE_PATH="coverage/urllibtest$douban_movie.coverage" NAME="douban_movie Coverage Results" MODIFIED="1532583650715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
-    <SUITE FILE_PATH="coverage/urllibtest$urllib_func.coverage" NAME="urllib_func Coverage Results" MODIFIED="1532499236574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest" />
-    <SUITE FILE_PATH="coverage/urllibtest$cookies_demo.coverage" NAME="cookies_demo Coverage Results" MODIFIED="1532529833052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
-    <SUITE FILE_PATH="coverage/urllibtest$lxml_xpath.coverage" NAME="lxml_xpath Coverage Results" MODIFIED="1532536069383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/perseverance/scrapy/urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$lxml_demo.coverage" NAME="lxml_demo Coverage Results" MODIFIED="1532532371644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$find_elements.coverage" NAME="find_elements Coverage Results" MODIFIED="1532830736481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$lock_demo2.coverage" NAME="lock_demo2 Coverage Results" MODIFIED="1532775686499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$actionChains.coverage" NAME="actionChains Coverage Results" MODIFIED="1532832248233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$queue_demo.coverage" NAME="queue_demo Coverage Results" MODIFIED="1532788355847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1532591183344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautifulSoup_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1532857373888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$urllib_func.coverage" NAME="urllib_func Coverage Results" MODIFIED="1532499236574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$lock_demo.coverage" NAME="lock_demo Coverage Results" MODIFIED="1532773441913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$selenium_proxy.coverage" NAME="selenium_proxy Coverage Results" MODIFIED="1532837076840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$Mongodb_demo.coverage" NAME="Mongodb_demo Coverage Results" MODIFIED="1532766857761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1532788780496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1532772341133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$cookies_demo.coverage" NAME="cookies_demo Coverage Results" MODIFIED="1532833122721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1532878266770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tesseract" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$Mysql_demo.coverage" NAME="Mysql_demo Coverage Results" MODIFIED="1532764463895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/urllibtest$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1532526844361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$proxies_demo.coverage" NAME="proxies_demo Coverage Results" MODIFIED="1532529695237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$proxyHandler_demo.coverage" NAME="proxyHandler_demo Coverage Results" MODIFIED="1532503770709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1532772574836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$switch_windows.coverage" NAME="switch_windows Coverage Results" MODIFIED="1532835323778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$lxml_xpath.coverage" NAME="lxml_xpath Coverage Results" MODIFIED="1532536069383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$request_headers.coverage" NAME="request_headers Coverage Results" MODIFIED="1532500105433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$open_close.coverage" NAME="open_close Coverage Results" MODIFIED="1532826843562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$waiting_demo.coverage" NAME="waiting_demo Coverage Results" MODIFIED="1532834870389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajax_spider_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$condition_demo.coverage" NAME="condition_demo Coverage Results" MODIFIED="1532786698555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_demo" />
+    <SUITE FILE_PATH="coverage/scrapy_demo$test.coverage" NAME="test Coverage Results" MODIFIED="1532827617821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllibtest$douban_movie.coverage" NAME="douban_movie Coverage Results" MODIFIED="1532583650715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
+    <SUITE FILE_PATH="coverage/urllibtest$cookies_demo.coverage" NAME="cookies_demo Coverage Results" MODIFIED="1532529833052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../urllibtest/requests_demo" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="urllibtest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="lxml_xpath.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/lxml_xpath.py">
+    <leaf>
+      <file leaf-file-name="lock_demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thread_demo/lock_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="douban_movie.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/douban_movie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urllib_func.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/urllib_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="proxyHandler_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/proxyHandler_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request_headers.py" pinned="false" current-in-tab="true">
-        <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/request_headers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8265896">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.44785276">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -100,17 +83,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="H:/perseverance/scrapy/urllibtest/urllib_func.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/request_headers.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/proxyHandler_demo.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/demo1.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/proxies_demo.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/cookies_demo.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/test.html" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/lxml_demo.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/test.html" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/lxml_xpath.py" />
-        <option value="H:/perseverance/scrapy/urllibtest/requests_demo/douban_movie.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/urllib_func.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/request_headers.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/proxyHandler_demo.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/demo1.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/proxies_demo.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/cookies_demo.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/test.html" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/lxml_demo.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/test.html" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/lxml_xpath.py" />
+        <option value="$PROJECT_DIR$/../urllibtest/requests_demo/douban_movie.py" />
+        <option value="$PROJECT_DIR$/beautifulSoup_demo/demo1.py" />
+        <option value="$PROJECT_DIR$/urllib/urllib_func.py" />
+        <option value="$PROJECT_DIR$/requests_demo/douban_movie.py" />
+        <option value="$PROJECT_DIR$/urllib/proxyHandler_demo.py" />
+        <option value="$PROJECT_DIR$/database/Mysql_demo.py" />
+        <option value="$PROJECT_DIR$/database/Mongodb_demo.py" />
+        <option value="$PROJECT_DIR$/thread_demo.py" />
+        <option value="$PROJECT_DIR$/thread_demo/demo1.py" />
+        <option value="$PROJECT_DIR$/thread_demo/demo2.py" />
+        <option value="$PROJECT_DIR$/thread_demo/lock_demo.py" />
+        <option value="$PROJECT_DIR$/thread_demo/lock_demo2.py" />
+        <option value="$PROJECT_DIR$/thread_demo/condition_demo.py" />
+        <option value="$PROJECT_DIR$/thread_demo/queue_demo.py" />
+        <option value="$PROJECT_DIR$/thread_demo/doutula.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/demo.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/open_close.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/find_elements.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/actionChains.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/cookies_demo.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/waiting_demo.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/switch_windows.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/selenium_proxy.py" />
+        <option value="$PROJECT_DIR$/ajax_spider_demo/lagou.py" />
+        <option value="D:/Python/Python35/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/tesseract/demo.py" />
       </list>
     </option>
   </component>
@@ -150,8 +159,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapy_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="scrapy_demo" />
@@ -162,114 +179,128 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapy_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrapy_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="H:/perseverance/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\perseverance\scrapy\scrapy_demo\tesseract" />
+      <recent name="H:\perseverance\scrapy\scrapy_demo\beautifulSoup_demo" />
+      <recent name="H:\perseverance\scrapy\urllibtest\requests_demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\perseverance\scrapy\scrapy_demo\urllib" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\perseverance\scrapy\urllibtest\requests_demo" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.douban_movie">
-    <configuration default="false" name="proxies_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo">
+    <configuration default="false" name="waiting_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/perseverance/scrapy/urllibtest/requests_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ajax_spider_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="urllibtest" />
+      <module name="scrapy_demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/perseverance/scrapy/urllibtest/requests_demo/proxies_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax_spider_demo/waiting_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="cookies_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="switch_windows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/perseverance/scrapy/urllibtest/requests_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ajax_spider_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="urllibtest" />
+      <module name="scrapy_demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/perseverance/scrapy/urllibtest/requests_demo/cookies_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax_spider_demo/switch_windows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="lxml_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="selenium_proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/perseverance/scrapy/urllibtest/requests_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ajax_spider_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="urllibtest" />
+      <module name="scrapy_demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/perseverance/scrapy/urllibtest/requests_demo/lxml_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax_spider_demo/selenium_proxy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="lxml_xpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="lagou" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/perseverance/scrapy/urllibtest/requests_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ajax_spider_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="urllibtest" />
+      <module name="scrapy_demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/perseverance/scrapy/urllibtest/requests_demo/lxml_xpath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax_spider_demo/lagou.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="douban_movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:/perseverance/scrapy/urllibtest/requests_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tesseract" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="urllibtest" />
+      <module name="scrapy_demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:/perseverance/scrapy/urllibtest/requests_demo/douban_movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tesseract/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -468,19 +499,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.proxies_demo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cookies_demo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.lxml_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lxml_xpath" />
-      <item index="4" class="java.lang.String" itemvalue="Python.douban_movie" />
+      <item index="0" class="java.lang.String" itemvalue="Python.waiting_demo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.switch_windows" />
+      <item index="2" class="java.lang.String" itemvalue="Python.selenium_proxy" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lagou" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.douban_movie" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lxml_xpath" />
-        <item index="2" class="java.lang.String" itemvalue="Python.lxml_demo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cookies_demo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.proxies_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lagou" />
+        <item index="2" class="java.lang.String" itemvalue="Python.selenium_proxy" />
+        <item index="3" class="java.lang.String" itemvalue="Python.switch_windows" />
+        <item index="4" class="java.lang.String" itemvalue="Python.waiting_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -498,27 +529,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3426724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19234914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3478261" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43713278" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -533,161 +564,364 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/lxml_xpath.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/lxml_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/a.json">
+    <entry file="file://$PROJECT_DIR$/requests_demo/douban_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautifulSoup_demo/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/test.html">
+    <entry file="file://$PROJECT_DIR$/requests_demo/lxml_xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/lxml_xpath.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/lxml_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/a.json">
+    <entry file="file://$PROJECT_DIR$/requests_demo/a.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/test.html">
+    <entry file="file://$PROJECT_DIR$/requests_demo/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/urllib_func.py">
+    <entry file="file://$PROJECT_DIR$/urllib/urllib_func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/request_headers.py">
+    <entry file="file://$PROJECT_DIR$/urllib/request_headers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/demo1.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/proxies_demo.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/proxies_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/cookies_demo.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/cookies_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7055749">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/lxml_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0">
-          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/lxml_xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/a.json">
+    <entry file="file://$PROJECT_DIR$/requests_demo/a.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/test.html">
+    <entry file="file://$PROJECT_DIR$/requests_demo/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22580644">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/requests_demo/douban_movie.py">
+    <entry file="file://D:/Python/Python35/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="900" column="11" selection-start-line="900" selection-start-column="11" selection-end-line="900" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautifulSoup_demo/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.548387">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/lxml_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6069364">
+          <caret line="94" column="22" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllib/urllib_func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/urllib_func.py">
+    <entry file="file://$PROJECT_DIR$/urllib/proxyHandler_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="17" />
-          <folding />
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/proxyHandler_demo.py">
+    <entry file="file://$PROJECT_DIR$/urllib/request_headers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47976878">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautifulSoup_demo/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93128836">
+          <caret line="130" column="2" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python35/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38773006">
+          <caret line="574" column="17" selection-start-line="574" selection-start-column="17" selection-end-line="574" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python35/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4981595">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/Mongodb_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5306604">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/Mysql_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9551887">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/queue_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4375">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/condition_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5625">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/douban_movie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/perseverance/scrapy/scrapy_demo/urllib/request_headers.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo/lxml_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8265896">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/selenium_demo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/actionChains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/open_close.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09375">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/cookies_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/selenium_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.375">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/switch_windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/find_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/waiting_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16564417">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax_spider_demo/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesseract/test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python35/Lib/site-packages/pytesseract/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46875">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python35/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6145833">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesseract/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33128834">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9447853">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/doutula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2760736">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/lock_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2208589">
+          <caret line="6" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_demo/lock_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44785276">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
